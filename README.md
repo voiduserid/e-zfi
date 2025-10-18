@@ -71,3 +71,7 @@ export default defineConfig([
   },
 ])
 ```
+#### Design meeting:
+
+Step0: -> MVP goal, Build bare-bone frontend UI! 
+tech stack:  TS, React, Framer Motion, Vanilla CSS/ExpressJS, PostgreSQL
