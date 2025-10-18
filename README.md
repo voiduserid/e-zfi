@@ -12,8 +12,6 @@ $ npm run dev
 You should see: `Local: http://localhost:5173`
 ```
 
-
-// eslint.config.js
 #### Design goal:
 
 Initial Design meeting & goal:
@@ -43,9 +41,9 @@ src/
 └── vite-env.d.ts
 ```
 
-#### Possible Full-stack
+### Possible Full-stack
 
-## 🎯 **Recommended Full Stack**
+#### 🎯 **final tech stack**
 
 ```
 FRONTEND:
@@ -68,7 +66,7 @@ TOOLS:
 └── Git/GitHub        (Version control)
 ```
 
-#### Foreseeable full-stack structure
+#### Foreseeable structure
 
 ```bash
 src/
