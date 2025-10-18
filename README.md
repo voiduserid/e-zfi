@@ -75,3 +75,7 @@ export default defineConfig([
 
 Step0: -> MVP goal, Build bare-bone frontend UI! 
 tech stack:  TS, React, Framer Motion, Vanilla CSS/ExpressJS, PostgreSQL
+
+```bash
+$ mkdir -p src/types src/utils src/services src/hooks src/data src/components src/pages src/context
+```
